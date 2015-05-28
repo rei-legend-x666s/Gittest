@@ -14,6 +14,7 @@ public class Gittest1 {
         
     System.out.print("AA");
     System.out.print("BB");
+    System.out.print("CC");
     }
     
 }
